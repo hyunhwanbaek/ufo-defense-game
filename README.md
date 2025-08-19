@@ -19,4 +19,23 @@ UFO Defense는 웹과 앱에서 모두 즐길 수 있는 아케이드 슈팅 게
 ## 설치 & 실행 방법
 ### 웹
 1. 브라우저에서 데모 링크 열기
-2. Android : app-release.apk 파일 다운로드 후 설치
+https://webpluszone.co.kr/game/ufo2/game_ufo.html
+
+### 안드로이드
+1. Android : app-release.apk 파일 다운로드 후 설치
+
+##아키텍처
+/docs 폴더 참고
+
+##데모 영상
+https://studio.youtube.com/video/jw7siyvZsYU/edit
+
+##팀 소개
+
+개발자:백현환
+역할: 기획, 개발, 디자인
+
+##향후 계획
+1. 점수 저장 및 글로벌 랭킹 시스템
+2. 다양한 적 유형 및 맵 추가
+3. 멀티플레이 모드 확장 검토
